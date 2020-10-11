@@ -7,7 +7,7 @@ description: "Setup your Respberry Pi without a monitor"
 image: "Pi1.png"
 categories:
     - Archived
-    - Blog Posts
+    - Blog
 tags:
     - Respberry Pi
     - Headless Setup

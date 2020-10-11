@@ -3,11 +3,11 @@ title: "Announcing the Re-xv6-2 project"
 date: 2019-05-30T23:11:01+08:00
 draft: false
 slug: "announcing-rexv6-proj"
-description: "Announcing the Re-xv6-2 project"
+description: "What is to do in the rexv6 project"
 image: "startup.png"
 categories:
     - Archived
-    - Blog Posts
+    - Blog
 tags:
     - XV6
 ---
