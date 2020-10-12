@@ -1,6 +1,6 @@
 baseURL = "https://xkzzzzzz.xyz/"
 languageCode = "en-us"
-title = "XKZZZZZZ's Blog"
+title = "XKZZZZZZ's Lab"
 theme = "hugo-theme-stack"
 disqusShortname = "hugo-theme-stack"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support

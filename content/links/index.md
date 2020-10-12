@@ -8,16 +8,10 @@ categories:
 
 
 ### Blogs
-1. [spinmry 实验室](http://blog.spinmry.ml/)  
-
-  >Whether you have read the paragraph below, It **has been deleted** at his own request!
-
-  ~~The blog of a extremely talented, hard-working  full-stack engineer, who is outstanding   with his excellent genius of both software and hardware, especially for algorithms.   
-  NOIP seems *too easy* for him. We can foresee that he will beat any other in ACM/ICPC.~~   
-
+1. [SpinMry's Lab](https://blog.spinmry.moe/)  
+	High school student as he is, he has got great amount of knowledge on hardware, especially legacy workstations, PDAs , and calculators, and has a rich experience about bots. He, without doubt, is really good at algorithm and data structure. I present his blog at the top, with great **gratitude** because he is the person who lead me to think more about and get familiar with Linux.
 2. [Edi.Wang](http://edi.wang/)  
 3. [Gray_Eagle](https://space.bilibili.com/205973822)  
-	Well-known Bilibili video maker.
 
 ### Websites
 1. [Windows Dev Center](https://developer.microsoft.com/en-us/windows)
