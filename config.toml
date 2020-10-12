@@ -29,9 +29,8 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         enabled = true
         provider = "disqus"         # Available: disqus, utterances    
         [params.comments.utterances]
-            repo = ""
+            repo = "SmartPolarBear/SmartPolarBear.github.io"
             issueTerm = "pathname"
-            label = ""             # Optional
             theme = "preferred-color-scheme"
             
     [params.widgets]
