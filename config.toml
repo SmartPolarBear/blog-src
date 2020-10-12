@@ -27,7 +27,7 @@ DefaultContentLanguage = "en"                   # Theme i18n support
             
     [params.comments]
         enabled = true
-        provider = "disqus"         # Available: disqus, utterances    
+        provider = "utterances"         # Available: disqus, utterances    
         [params.comments.utterances]
             repo = "SmartPolarBear/SmartPolarBear.github.io"
             issueTerm = "pathname"
