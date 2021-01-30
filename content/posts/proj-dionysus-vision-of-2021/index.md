@@ -1,7 +1,7 @@
 ---
 title: "Project Dionysus : The Vision of 2021"
 date: 2021-1-1T00:00:00+08:00
-draft: true
+draft: false
 slug: "project-dionysus-vision-of-2021"
 description: "Setting out the vision for the grand image of future."
 categories:
@@ -22,12 +22,13 @@ What has been done for it in the past year and a few months? Above growing from 
 
 ## Now
 
-- **Better process model**
-- **Refactoring and resource leaks fixing**
-- 
+- **Better process model**   
+- **Optimized memory management ** 
+- **Cache for file system ** 
+- **Refactoring and resource leaks fixing ** 
 ## Future
 
-- **Move things out of kernel**
+- **Move things out of kernel** 
 
 - **Improved synchronization infrastructures**
 
