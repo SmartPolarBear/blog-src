@@ -1,8 +1,9 @@
 ---
 title: "Project Dionysus : The Vision of 2021"
-date: 2021-1-30T11:55:00+08:00
+date: 2021-01-30T23:55:00+08:00
 draft: false
 slug: "project-dionysus-vision-of-2021"
+image: "dionysus.jpg"
 description: "Setting out the vision for the grand image of future."
 categories:
     - Blog
@@ -22,18 +23,18 @@ What has been done for it in the past year and a few months? Above growing from 
 
 ## Now
 
-- **Better process model**   
+-  **Better process model**   
 
-- **Optimized memory management **  
+-  **Optimized memory management**  
 
-- **Cache for file system **  
+-  **Cache for file system**  
 
-- **Refactoring and resource leaks fixing **  
+-  **Refactoring and resource leaks fixing**  
 
 ## Future
 
-- **Move things out of kernel**  
+-  **Move things out of kernel**  
 
-- **Improved synchronization infrastructures**  
+-  **Improved synchronization infrastructures**  
 
-- **Rights and security**  
+-  **Rights and security**  
