@@ -23,13 +23,17 @@ What has been done for it in the past year and a few months? Above growing from 
 ## Now
 
 - **Better process model**   
-- **Optimized memory management ** 
-- **Cache for file system ** 
-- **Refactoring and resource leaks fixing ** 
+
+- **Optimized memory management **  
+
+- **Cache for file system **  
+
+- **Refactoring and resource leaks fixing **  
+
 ## Future
 
-- **Move things out of kernel** 
+- **Move things out of kernel**  
 
-- **Improved synchronization infrastructures**
+- **Improved synchronization infrastructures**  
 
-- **Rights and security**
+- **Rights and security**  
