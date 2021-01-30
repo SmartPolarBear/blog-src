@@ -1,6 +1,6 @@
 ---
 title: "Project Dionysus : The Vision of 2021"
-date: 2021-1-1T00:00:00+08:00
+date: 2021-1-30T23:55:00+08:00
 draft: false
 slug: "project-dionysus-vision-of-2021"
 description: "Setting out the vision for the grand image of future."

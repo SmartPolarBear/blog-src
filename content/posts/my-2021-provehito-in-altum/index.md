@@ -1,7 +1,7 @@
 ---
 title: "Looking Back to 2020: PROVEHITO IN ALTUM"
 date: 2020-12-27T00:00:00+08:00
-draft: false
+draft: true
 slug: "looking-back-in-2020-provehito-in-altum"
 description: "Written at the end and the new beginning."
 categories:
