@@ -5,6 +5,9 @@ draft: false
 ---
 
 # About XKZZZZZZ's Blog
+
+[My Github](https://github.com/SmartPolarBear)  
+
 "E pluribus Unum." is "Out of many, we are one." written in Latin. As a student in Xiamen University , I hope to populate the most advanced technologies to all around the world, with the concepts of peace, freedom and equality, which are significant for applying modern technologies without harm. The progress for human requires less conflicts and disputes like now we have. And all of us should share not only a free and neutral Internet, but also a world with mutual understanding.  
 
 I used to  dig into the Universal Windows Platform. I also fancy Apple products and their insistence on privacy protection and excellent user experience. I hold the belief that open source makes the world better.  

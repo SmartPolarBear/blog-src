@@ -6,12 +6,14 @@ categories:
     - Links
 ---
 
-
 ### Blogs
+
 1. [SpinMry's Lab](https://blog.spinmry.moe/)  
 	High school student as he is, he has got great amount of knowledge on hardware, especially legacy workstations, PDAs , and calculators, and has a rich experience about bots. He, without doubt, is really good at algorithm and data structure. I present his blog at the top, with great **gratitude** because he is the person who lead me to think more about and get familiar with Linux.
-2. [Edi.Wang](http://edi.wang/)  
-3. [Gray_Eagle](https://space.bilibili.com/205973822)  
+2. [My Github](https://github.com/SmartPolarBear)  
+	My github profile. Please star my projects if possible.
+3. [Edi.Wang](http://edi.wang/)  
+4. [Gray_Eagle](https://space.bilibili.com/205973822)  
 
 ### Websites
 1. [Windows Dev Center](https://developer.microsoft.com/en-us/windows)
