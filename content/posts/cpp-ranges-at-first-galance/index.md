@@ -6,7 +6,7 @@ slug: "cpp20-ranges-at-first-glance"
 description: "Have fun with C++20 ranges, the so-called STL 2.0"
 categories:
     - Blog
-    - Essay
+    - Programing Languages
 tags:
     - C++20
     - Ranges
